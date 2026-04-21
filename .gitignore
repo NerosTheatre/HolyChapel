@@ -2,6 +2,7 @@
 .godot/
 *.translation
 *.import
+* Push.txt
 
 # Godot 3
 .import/
