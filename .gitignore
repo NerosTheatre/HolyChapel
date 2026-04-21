@@ -1,0 +1,14 @@
+# Godot 4
+.godot/
+*.translation
+*.import
+
+# Godot 3
+.import/
+export.cfg
+export_presets.cfg
+
+# Mono/C#
+.mono/
+data_*/
+mono_crash.*.json
