@@ -10,6 +10,11 @@ size = Vector2(32, 32)
 
 [node name="plr_obj" parent="." unique_id=192144491 instance=ExtResource("1_ceir1")]
 
+[node name="cam_obj" type="Camera2D" parent="plr_obj" unique_id=2133297521]
+zoom = Vector2(2.505, 2.505)
+position_smoothing_enabled = true
+rotation_smoothing_enabled = true
+
 [node name="blk_obj" type="StaticBody2D" parent="." unique_id=2002383421]
 position = Vector2(62, 45)
 
